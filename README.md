@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Monica Zeiler
-- 👀 I’m interested in learning more about coding and progressing to a career path in this field of technology.
+- 👋 Hi, I’m Monica Zeiler.
+- 👀 I am interested in learning more about coding and progressing to a career path in this field of technology.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: mzeiler@ufl.edu
 
